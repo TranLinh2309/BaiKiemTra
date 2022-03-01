@@ -21,5 +21,13 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (txtUserName.Text == "admin" && txtMatKhau.Text == "admin")
+            {
+                MessageBox.Show("SuccessFull");
+            }
+        }
     }
 }
