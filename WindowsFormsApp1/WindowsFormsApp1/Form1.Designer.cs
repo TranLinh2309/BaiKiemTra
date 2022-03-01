@@ -40,20 +40,20 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(192, 86);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 16);
+            this.label1.Size = new System.Drawing.Size(97, 16);
             this.label1.TabIndex = 0;
-            this.label1.Text = "UserName";
+            this.label1.Text = "TenDangNhap";
             // 
             // txtUserName
             // 
-            this.txtUserName.Location = new System.Drawing.Point(271, 83);
+            this.txtUserName.Location = new System.Drawing.Point(295, 83);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(100, 22);
             this.txtUserName.TabIndex = 1;
             // 
             // txtMatKhau
             // 
-            this.txtMatKhau.Location = new System.Drawing.Point(271, 128);
+            this.txtMatKhau.Location = new System.Drawing.Point(295, 128);
             this.txtMatKhau.Name = "txtMatKhau";
             this.txtMatKhau.Size = new System.Drawing.Size(100, 22);
             this.txtMatKhau.TabIndex = 3;
